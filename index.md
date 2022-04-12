@@ -1,14 +1,2 @@
----
-layout: default
----
-
-{% include 01-name.md %}
-
-<br>
-
-{% include 02-image.md %}
-
-<br>
-
-{% include 03-links.md %}
-
+#Hello <h1> World
+##Welcome To <h2> Pune
