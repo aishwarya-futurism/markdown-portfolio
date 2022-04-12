@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Used for italic content*
+*Italic give diff styling format*
+
+_italic format_
+_Italic text_
